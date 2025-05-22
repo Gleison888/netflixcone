@@ -1,12 +1,13 @@
 # Clone da Netflix
 
-## Esse foi o meu projeto, aonde eu fiz um clone da netflix, desenvolvi para praticar habilidades com foco em estruturação em sites, e trinar habilidades com linguagens como HTML, CSS3, JAVASCRIPT
+## Esse foi o meu primeiro projeto, clone da Netflix. Desenvolvi para praticar habilidades com foco em estruturação em sites, e treinar habilidades com linguagens como HTML, CSS3 e JavaSCript
 
 ## Funcionalidades 💥
 
 - Navegação por categoria
 - Exibição de poster em carrosel  
 - Informações super compreensivas e bem visiveis
+  
 ## Tecnologias usadas 🛠🛠
 - HTML 5
 - CSS3
